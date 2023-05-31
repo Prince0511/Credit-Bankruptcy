@@ -1,4 +1,4 @@
-💼 Credit Bankruptcy project:
+# 💼 Credit Bankruptcy Project:
 
 📊 Aim: Predict the likelihood of borrower defaulting on a loan
 
